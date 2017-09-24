@@ -1,0 +1,6 @@
+framework module Pods_QuizSwift {
+  umbrella header "Pods-QuizSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
